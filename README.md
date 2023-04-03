@@ -1,6 +1,6 @@
 # Cypher_Methods
 
-1. Caesar Cipher
+##1. Caesar Cipher
 Encryption:
 
 +	Choose a shift value (key) from 1 to 25.
@@ -15,7 +15,7 @@ Brute Force Attack:
 +	Try all possible shift values from 1 to 25.
 +	Analyze the output using frequency analysis or other heuristic techniques to find the most likely plaintext.
 
-2. Monoalphabetic Substitution Cipher
+##2. Monoalphabetic Substitution Cipher
 
 Encryption:
 
@@ -31,7 +31,7 @@ Brute Force Attack:
 +	Brute force is not practical due to 26! possible key combinations.
 +	Use frequency analysis to find the most likely substitution mapping.
 
-3. Vigenère Cipher
+##3. Vigenère Cipher
 
 Encryption:
 
