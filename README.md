@@ -3,7 +3,7 @@
 1. Caesar Cipher
 Encryption:
 
-+Choose a shift value (key) from 1 to 25.
++	Choose a shift value (key) from 1 to 25.
 +	For each letter in the plaintext, shift it by the chosen value down the alphabet.
 
 Decryption:
